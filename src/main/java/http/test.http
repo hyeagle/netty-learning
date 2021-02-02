@@ -1,0 +1,7 @@
+POST http://localhost:8088/api/item
+
+qfefda
+
+###
+GET localhost:8088/asd
+
